@@ -1,0 +1,16 @@
+{
+  "name": "Vanity URL Spammer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lostfxo.js",
+  "scripts": {
+    "run": "node lostfxo.js"
+  },
+  "keywords": [],
+  "author": "lostfxo",
+  "license": "WTFPL",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.4.2",
+    "request": "^2.88.2"
+  }
+}
